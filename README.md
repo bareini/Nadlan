@@ -27,7 +27,7 @@ In details:
 - ``seaborn``
 - ``pprint``
 - ``pandas``
--``numpy``
+- -``numpy``
 - ``matplotlib``
 
 ## References
