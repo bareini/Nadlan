@@ -24,10 +24,11 @@ This rather user-friendly allows quering according to specific neighborhoods and
 In details:
 - ``selenuim``
 - ``chromdriver``
-- ``selenuim``
+- ``seaborn``
 - ``pprint``
 - ``pandas``
 -``numpy``
+- ``matplotlib``
 
 ## References
 <a id="1">[1]</a> 
