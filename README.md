@@ -21,7 +21,7 @@ This rather user-friendly allows quering according to specific neighborhoods and
 
 ## Dependencies
 *Nadlan1* relies on ``selenuim`` tool from scraping and requires download ``chromdriver``. 
-In details:
+In detail:
 - ``selenuim``
 - ``chromdriver``
 - ``seaborn``
