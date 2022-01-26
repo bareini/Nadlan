@@ -25,7 +25,7 @@ In details:
 - ``selenuim``
 - ``chromdriver``
 - ``selenuim``
-- ``selenuim``
+- ``pprint``
 - ``pandas``
 -``numpy``
 
