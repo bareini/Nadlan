@@ -1,4 +1,8 @@
+<img src="img/noun_Cannabis.png" width=125 height=125 align="right">
+
+
 # Nadlan
+
 
 Housing prices in Israel have nearly doubled is the passed decade [1]. After halting (and even slightly decreasing) during the first waves of Covid-19, they are keep rising. 
 The best we can do is to be informed and learn the market ourselves to avoide "bad deals".
